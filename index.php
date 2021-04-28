@@ -1,6 +1,6 @@
 <?php
 
-function sum($var1, $var2)
+function sum(int $var1, int $var2)
 {
     return $var1 + $var2;
 }
